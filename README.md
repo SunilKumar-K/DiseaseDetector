@@ -1,4 +1,4 @@
-# Disease-Dedictor
+# Disease predictor
 
 ## A responsive & ergonomic website to predict the disease from given symptoms and health parameters using machine learning algorithms.
 
