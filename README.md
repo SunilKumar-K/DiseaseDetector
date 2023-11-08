@@ -9,7 +9,7 @@
 #### 3) API - Contains ML Hosted Project (FastAPI)
 
 ### Overview :
-This model predicting the disease is trained in using Machine Learning and then using a Framework called FastAPI (like flask) in python,  the model is loaded and hosted on a web hosting service. This then acts as an API that receives and sends predictions and graphs as a result to our main backend server. On the Frontend when the user input the data into the parameters, the data is sent to the backend, and then to the API  which is then predicting the outcome of the model. The result is then displayed on the frontend when received on the server.
+This model predicting the disease is trained in using Machine Learning and then using a Framework called FastAPI (like flask) in python,  the model is loaded and hosted on a web hosting service. This then acts as an API that receives and sends predictions and graphs as a result to our main backend server. On the Frontend when the user input the data into the parameters, the data is sent to the backend, and then to the API  which is then predicting the outcome of the model. The result is then displayed on the frontend when received on the server as well.
 
 ### Features :
 
